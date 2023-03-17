@@ -6,6 +6,7 @@ import java.util.Random;
 /**
  * @author Podshivalov Nikita (https://github.com/nikitap492)
  * @see SortAlgorithm
+ * 随机生成
  */
 public class BogoSort implements SortAlgorithm {
 
